@@ -29,11 +29,11 @@ del Y
 class_0 = iris[iris['target']==0]
 class_1 = iris[iris['target']==1]
 class_2 = iris[iris['target']==2]
-# plt.scatter(class_0['sepal width (cm)'], class_0['petal width (cm)'], cmap="red")
-# plt.scatter(class_1['sepal width (cm)'], class_1['petal width (cm)'], cmap="blue")
-# plt.scatter(class_2['sepal width (cm)'], class_2['petal width (cm)'], cmap="green")
-# plt.plot()
-# plt.show()
+/ plt.scatter(class_0['sepal width (cm)'], class_0['petal width (cm)'], cmap="red")
+/ plt.scatter(class_1['sepal width (cm)'], class_1['petal width (cm)'], cmap="blue")
+/ plt.scatter(class_2['sepal width (cm)'], class_2['petal width (cm)'], cmap="green")
+/ plt.plot()
+/ plt.show()
 
 
 ## Choose class_0 / class_1 to implement PLA 
